@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**As a** Role
-**I need** Function
-**So that** Benefit
+**As a**  [ Role] 
+**I need**  [ Function] 
+**So that** [  Benefit] 
 
-###Details and Assumptions:
-* Document what you know
+### Details and Assumptions:
+*  [ Document what you know] 
 
 ### Acceptance Criteria:
